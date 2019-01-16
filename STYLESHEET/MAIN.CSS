@@ -1,0 +1,47 @@
+  #navbar{
+    position:fixed;
+    width:300px;
+    height:100%;
+    border-right:solid;
+    border-color:black
+  }
+  .nav-link{
+    text-decoration: none;
+    font-size: 1.2em;
+    color: black;
+    
+  }
+  .nav-link:hover{
+    color: #0099ff;
+  }
+  header{
+    color:black;
+    font-size: 30px;
+    margin:10px;
+    text-align:center;
+     }
+  #main-doc header{
+    text-align:left;
+    margin:0px;
+  }
+  #navbar ul{
+    height:88%;
+   
+  }
+  #navbar li{
+    border:1px solid;
+    padding:5px;
+    padding-left:45px;
+    position:relative;
+   left:-50px;
+    width:100%;
+   
+      }
+  #main-doc{
+    margin-left:310px;
+    margin-bottom:110px;
+    position: absolute
+  }
+  header{
+      align: center
+  }
